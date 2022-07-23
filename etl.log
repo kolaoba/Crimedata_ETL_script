@@ -1,0 +1,28 @@
+INFO:root:2022-07-23 13:54:24.651822 - Starting ETL Process
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): s3-us-gov-west-1.amazonaws.com:443
+DEBUG:urllib3.connectionpool:https://s3-us-gov-west-1.amazonaws.com:443 "GET /cg-d4b776d0-d898-4153-90c8-8336f86bdfec/2022_Quarter_1-Jan-Mar_06-06-2022.zip HTTP/1.1" 200 35856
+INFO:root:2022-07-23 13:54:26.131501 - 2022_Quarter_1-Jan-Mar_06-06-2022.zip saved successfully to ./downloads/2022_Quarter_1-Jan-Mar_06-06-2022.zip
+INFO:root:2022-07-23 13:54:41.321470 - 2022_Quarter_1-Jan-Mar_06-06-2022 successfully loaded into DB!
+INFO:root:2022-07-23 13:54:42.181550 - ETL process completed successfully!
+INFO:root:2022-07-23 19:06:03.873923 - Starting ETL Process
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): s3-us-gov-west-1.amazonaws.com:443
+DEBUG:urllib3.connectionpool:https://s3-us-gov-west-1.amazonaws.com:443 "GET /cg-d4b776d0-d898-4153-90c8-8336f86bdfec/2022_Quarter_1-Jan-Mar_06-06-2022.zip HTTP/1.1" 200 35856
+INFO:root:2022-07-23 19:06:06.452206 - 2022_Quarter_1-Jan-Mar_06-06-2022.zip saved successfully to ./downloads/2022_Quarter_1-Jan-Mar_06-06-2022.zip
+INFO:root:2022-07-23 19:06:20.240180 - 2022_Quarter_1-Jan-Mar_06-06-2022 successfully loaded into DB!
+INFO:root:2022-07-23 19:06:20.998065 - ETL process completed successfully!
+INFO:root:2022-07-23 19:06:43.190706 - Starting ETL Process
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): s3-us-gov-west-1.amazonaws.com:443
+DEBUG:urllib3.connectionpool:https://s3-us-gov-west-1.amazonaws.com:443 "GET /cg-d4b776d0-d898-4153-90c8-8336f86bdfec/2022_Quarter_1-Jan-Mar_06-06-2022.zip HTTP/1.1" 200 35856
+INFO:root:2022-07-23 19:06:44.692546 - 2022_Quarter_1-Jan-Mar_06-06-2022.zip saved successfully to ./downloads/2022_Quarter_1-Jan-Mar_06-06-2022.zip
+INFO:root:2022-07-23 19:06:54.123351 - Starting ETL Process
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): s3-us-gov-west-1.amazonaws.com:443
+DEBUG:urllib3.connectionpool:https://s3-us-gov-west-1.amazonaws.com:443 "GET /cg-d4b776d0-d898-4153-90c8-8336f86bdfec/2022_Quarter_1-Jan-Mar_06-06-2022.zip HTTP/1.1" 200 35856
+INFO:root:2022-07-23 19:06:55.668552 - 2022_Quarter_1-Jan-Mar_06-06-2022.zip saved successfully to ./downloads/2022_Quarter_1-Jan-Mar_06-06-2022.zip
+INFO:root:2022-07-23 19:06:57.146253 - 2022_Quarter_1-Jan-Mar_06-06-2022 successfully loaded into DB!
+INFO:root:2022-07-23 19:06:57.861110 - ETL process completed successfully!
+INFO:root:2022-07-23 19:07:19.952104 - Starting ETL Process
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): s3-us-gov-west-1.amazonaws.com:443
+DEBUG:urllib3.connectionpool:https://s3-us-gov-west-1.amazonaws.com:443 "GET /cg-d4b776d0-d898-4153-90c8-8336f86bdfec/2022_Quarter_1-Jan-Mar_06-06-2022.zip HTTP/1.1" 200 35856
+INFO:root:2022-07-23 19:07:21.351817 - 2022_Quarter_1-Jan-Mar_06-06-2022.zip saved successfully to ./downloads/2022_Quarter_1-Jan-Mar_06-06-2022.zip
+INFO:root:2022-07-23 19:07:34.718358 - 2022_Quarter_1-Jan-Mar_06-06-2022 successfully loaded into DB!
+INFO:root:2022-07-23 19:07:35.470362 - ETL process completed successfully!
