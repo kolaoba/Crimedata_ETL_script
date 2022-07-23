@@ -49,7 +49,7 @@ def load_data_into_db(df, file_name):
 
     with engine.connect() as conn:
         # load data into database with table_name as filename
-        df.to_sql(file_name, con=conn, index=False, if_exists='replace')
+        df.to_sql(file_name, con=conn, index=False, if_exists='replace', chunksize=100)
         logging.info('%s - %s successfully loaded into DB!' % (datetime.now(), file_name))
 
         test_query = '''SELECT * FROM \"%s\" LIMIT 5;''' % file_name

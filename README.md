@@ -12,4 +12,4 @@ Logs of the process are also kept in `etl.log` file.
 1. Clone this repo
 2. Using your virtual environment manager, install requirements from `requirements.txt`
 3. Rename `example_config.py` to `config.py` after updating with your database information.
-4. Run `main.py`.
+4. Run `python main.py`.
